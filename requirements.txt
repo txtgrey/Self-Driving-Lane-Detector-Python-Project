@@ -1,0 +1,4 @@
+The prerequisite requirements to run this program are:
+  - CV2
+  - Matplotlib
+  - Numpy
