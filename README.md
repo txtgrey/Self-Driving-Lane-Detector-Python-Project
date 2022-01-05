@@ -50,7 +50,7 @@ First install the above mentioned library, If you want to detect lane on your gi
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/Knighthawk-Leo"><img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/IMG20211212132226.jpg" width="180px;" alt=""/><br /><sub><b>Tejas Agrawal</b></sub></a></td>  
+<td align="center"><a href="https://github.com/txtgrey"><img src="https://i.ibb.co/LxB1mpH/278685-D2-71-BE-4982-B37-E-4-F008-ADE219-B.jpg" width="180px;" alt=""/><br /><sub><b>Tejas Agrawal</b></sub></a></td>  
 
   </tr>
 </table>
@@ -58,10 +58,12 @@ First install the above mentioned library, If you want to detect lane on your gi
 
 <table>
  <tr>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/72202404?v=4" width="180px;" alt=""/><br /><sub><b>Ayush Gaur</b></sub></a></td>  
-<td align="center"><img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/IMG20211102195542.jpg" width="150px;" alt=""/><br /><sub><b>Prateek Mahant</b></sub></a></td>  
-<td align="center"><img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/%E2%80%94Pngtree%E2%80%94cartoon%20male%20teacher%20holding%20a_5552300.png" width="150px;" alt=""/><br /><sub><b>Parikshit Singh</b></sub></a></td>  
+<td align="center"><img src="https://i.ibb.co/N2J4dv9/Ayush-Gaur.jpg" width="180px;" alt=""/><br /><sub><b>Ayush Gaur</b></sub></a></td>  
+<td align="center"><img src="https://i.ibb.co/pz429K2/IMG-20210318-192949-384.jpg" width="150px;" alt=""/><br /><sub><b>Prateek Mahant</b></sub></a></td>  
+<td align="center"><img src="https://i.ibb.co/4gcYC3t/Whats-App-Image-2022-01-05-at-11-31-23-PM.jpg" width="150px;" alt=""/><br /><sub><b>Parikshit Singh</b></sub></a></td>  
 
 </tr>
 </table>
 
+##
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
